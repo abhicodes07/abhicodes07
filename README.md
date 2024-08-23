@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 <!-- Snake contribution graph -->
 
 ![synthwave gif](https://github.com/abhicodes07/abhicodes07/blob/main/gifs/synthwave.gif)
-## Hi there 👋
+
+<div align="center">
+  <img src="https://github.com/abhicodes07/abhicodes07/blob/main/Texts/welcome_pixel.png">
+</div>
 
 ![snake gif](https://github.com/abhicodes07/abhicodes07/blob/output/github-contribution-grid-snake-dark.svg)
