@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Snake contribution graph -->
+
+![snake gif](https://github.com/abhicodes07/abhicodes07/blob/output/github-contribution-grid-snake-dark.svg)
