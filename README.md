@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **abhicodes07/abhicodes07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,5 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Snake contribution graph -->
+
+![synthwave gif](https://github.com/abhicodes07/abhicodes07/blob/main/gifs/synthwave.gif)
+## Hi there 👋
 
 ![snake gif](https://github.com/abhicodes07/abhicodes07/blob/output/github-contribution-grid-snake-dark.svg)
