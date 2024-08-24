@@ -22,8 +22,13 @@ Here are some ideas to get you started:
 
 ![synthwave gif](https://github.com/abhicodes07/abhicodes07/blob/main/gifs/synthwave.gif)
 
+
+
 <div align="center">
-  <img src="https://github.com/abhicodes07/abhicodes07/blob/main/Texts/welcome_pixel.png">
+  <p>
+    <img src="https://github.com/abhicodes07/abhicodes07/blob/main/Texts/welcome_pixel.png">
+  </p>
 </div>
+
 
 ![snake gif](https://github.com/abhicodes07/abhicodes07/blob/output/github-contribution-grid-snake-dark.svg)
