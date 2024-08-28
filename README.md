@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
+<!--<div align="center">
   <p>
     <img src="https://github.com/abhicodes07/abhicodes07/blob/main/Texts/welcome_pixel.png">
   </p>
-</div>
+</div> -->
 
 
 <p float="left">
