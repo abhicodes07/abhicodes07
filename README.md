@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 <!-- Snake contribution graph -->
 ##
-![synthwave gif](https://github.com/abhicodes07/abhicodes07/blob/main/gifs/synthwave.gif)
+![synthwave gif](https://github.com/abhicodes07/abhicodes07/blob/main/gifs/nerd.gif)
 ##
 
 
