@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Snake contribution graph -->
-##
 ![synthwave gif](https://github.com/abhicodes07/abhicodes07/blob/main/gifs/nerd.gif)
-##
-
 
 
 
@@ -46,5 +43,5 @@ Here are some ideas to get you started:
 </div>
 
 
-## 
+--- 
 ![snake gif](https://github.com/abhicodes07/abhicodes07/blob/output/github-contribution-grid-snake-dark.svg)
